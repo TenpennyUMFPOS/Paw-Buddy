@@ -2,33 +2,33 @@
 
 
 
-Paw-Buddy is a mobile application developed using flutter and firebase for the database.it helps rescuing injured, stray,
-homeless pets and even help normal users with pet issues.
+Paw-Buddy is a mobile application developed using flutter and firebase for the database.it helps rescuing injured, stray,</br>
+homeless pets and even help normal users with pet issues.</br>
 
-There is 1 actor who can access  specific functionalities:
+There is 1 actor who can access  specific functionalities:</br>
 
-  -Login
-  -Create Community
-  -Posting 
-  -commenting
-  -Like/Disliking a post
-  -join/leave community
-  -Along Side the other Features like change name/profile or cover picture ect..
+  -Login</br>
+  -Create Community</br>
+  -Posting </br>
+  -commenting</br>
+  -Like/Disliking a post</br>
+  -join/leave community</br>
+  -Along Side the other Features like change name/profile or cover picture ect..</br>
   
-there are 4 types of Posts each grant the user poinnts:
-  the first three Which you can post in normal communities:
-    1-Image(3 Points)
-    2-Text (2 Points)
-    3-Link (3 Points)
-  and the fourth  
-    4-Demand (10 Points),
-    When a person finds a stray or injured animal can use this and a list of Agencies which he is a part of will appear.
-Communities Are Seperated into 2:
-  -Communities
-  -Agencies
-You can chose to join,Leave or create a community on your own and Add moderators which allows them to change cover or delete posts in that particular community.
+there are 4 types of Posts each grant the user poinnts:</br>
+  the first three Which you can post in normal communities:</br>
+    1-Image(3 Points)</br>
+    2-Text (2 Points)</br>
+    3-Link (3 Points)</br>
+  and the fourth  </br>
+    4-Demand (10 Points),</br>
+    When a person finds a stray or injured animal can use this and a list of Agencies which he is a part of will appear.</br>
+Communities Are Seperated into 2:</br>
+  -Communities</br>
+  -Agencies</br>
+You can chose to join,Leave or create a community on your own and Add moderators which allows them to change cover or delete posts in that particular community.</br>
 
-Here are some screenshots of the application.
+Here are some screenshots of the application.</br>
 
 <table>
   <tr>
